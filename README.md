@@ -4,11 +4,14 @@ Soy un desarrollador Frontend en formacion que va generar gradiosas soluciones p
 
 Mis Proyectos son:
 
-Aquaria Piscinas : https://www.aquarial.com.ar/ Videray Technologies: https://videray.com/ Laboratorios Oftalmi: https://www.portal.oftalmi.com/ (En proceso) 
-Monica Mendez Eyewear design: https://monicamendez.design/ 
-Urbvan La mejor app de transporte colectivo: https://urbvan.com/ Atina Sociedad de corretaje de seguros: https://atinaseguros.com/ 
-Atanor de seguros: https://atanordeseguros.com.ve/ 
-Sebastian Doglia portafolio: https://www.sebastiandoglia.com/
+Aquaria Piscinas : https://www.aquarial.com.ar/ </br>
+Videray Technologies: https://videray.com/ </br>
+Laboratorios Oftalmi: https://www.portal.oftalmi.com/ (En proceso) </br>
+Monica Mendez Eyewear design: https://monicamendez.design/ </br>
+Urbvan La mejor app de transporte colectivo: https://urbvan.com/</br> 
+Atina Sociedad de corretaje de seguros: https://atinaseguros.com/ </br>
+Atanor de seguros: https://atanordeseguros.com.ve/ </br>
+Sebastian Doglia portafolio: https://www.sebastiandoglia.com/</br>
 <!--
 **MarcoInCode/MarcoInCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
