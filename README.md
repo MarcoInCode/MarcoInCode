@@ -1,5 +1,14 @@
-## Hi there 👋
+# Welcome to MarcoInCode!
 
+Soy un desarrollador Frontend en formacion que va generar gradiosas soluciones para cualquiera ambito mientras aprendo cada dia sobre el area del desarrollo web en general.
+
+Mis Proyectos son:
+
+Aquaria Piscinas : https://www.aquarial.com.ar/ Videray Technologies: https://videray.com/ Laboratorios Oftalmi: https://www.portal.oftalmi.com/ (En proceso) 
+Monica Mendez Eyewear design: https://monicamendez.design/ 
+Urbvan La mejor app de transporte colectivo: https://urbvan.com/ Atina Sociedad de corretaje de seguros: https://atinaseguros.com/ 
+Atanor de seguros: https://atanordeseguros.com.ve/ 
+Sebastian Doglia portafolio: https://www.sebastiandoglia.com/
 <!--
 **MarcoInCode/MarcoInCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
