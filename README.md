@@ -1,6 +1,6 @@
 # Welcome to MarcoInCode!
 
-Soy un desarrollador Frontend en formacion que va generar gradiosas soluciones para cualquiera ambito mientras aprendo cada dia sobre el area del desarrollo web en general.
+Soy un desarrollador Frontend en formación que va a generar gradiosas soluciones para cualquier ámbito mientras aprendo cada día sobre el área del desarrollo web en general.
 
 Mis Proyectos son:
 
@@ -11,7 +11,13 @@ Monica Mendez Eyewear design: https://monicamendez.design/ </br>
 Urbvan La mejor app de transporte colectivo: https://urbvan.com/</br> 
 Atina Sociedad de corretaje de seguros: https://atinaseguros.com/ </br>
 Atanor de seguros: https://atanordeseguros.com.ve/ </br>
-Sebastian Doglia portafolio: https://www.sebastiandoglia.com/</br>
+HeadTeam: https://headteam.marketing/
+SumaDigital: https://sumadigitalpro.com/
+Vyago: http://vyago.pt/
+Custom8:  http://custom8.eu/
+María Vásquez: https://mariavasquezabogada.es/
+Witizz https://witizz.com/
+
 <!--
 **MarcoInCode/MarcoInCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
