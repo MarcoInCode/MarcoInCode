@@ -17,11 +17,11 @@ Vyago: http://vyago.pt/ </br>
 Custom8:  http://custom8.eu/ </br>
 María Vásquez: https://mariavasquezabogada.es/ </br>
 Witizz https://witizz.com/ </br>
-Sumadigital https://sumadigital.es/
-Ducat http://ducatbrand.com/
-Smartmen https://www.smartmen.es/
-Quiles Strategy Capital Quiles Strategy Capital
-Apuestala https://apuestala.com/ (in process)
+Sumadigital https://sumadigital.es/ </br>
+Ducat http://ducatbrand.com/ </br>
+Smartmen https://www.smartmen.es/ </br>
+Quiles Strategy Capital https://quilesstrategycapital.com/ </br>
+Apuestala https://apuestala.com/ (in process) </br>
 
 <!--
 **MarcoInCode/MarcoInCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
