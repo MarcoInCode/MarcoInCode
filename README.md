@@ -6,7 +6,7 @@ Mis Proyectos son:
 
 Aquaria Piscinas : https://www.aquarial.com.ar/ </br>
 Videray Technologies: https://videray.com/ </br>
-Laboratorios Oftalmi: https://www.portal.oftalmi.com/ (En proceso) </br>
+Laboratorios Oftalmi: https://www.portal.oftalmi.com/  </br>
 Monica Mendez Eyewear design: https://monicamendez.design/ </br>
 Urbvan La mejor app de transporte colectivo: https://urbvan.com/</br> 
 Atina Sociedad de corretaje de seguros: https://atinaseguros.com/ </br>
@@ -17,6 +17,11 @@ Vyago: http://vyago.pt/ </br>
 Custom8:  http://custom8.eu/ </br>
 María Vásquez: https://mariavasquezabogada.es/ </br>
 Witizz https://witizz.com/ </br>
+Sumadigital https://sumadigital.es/
+Ducat http://ducatbrand.com/
+Smartmen https://www.smartmen.es/
+Quiles Strategy Capital Quiles Strategy Capital
+Apuestala https://apuestala.com/ (in process)
 
 <!--
 **MarcoInCode/MarcoInCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
